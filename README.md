@@ -12,9 +12,10 @@ We are going to focus on the "Big 4" Fashion Weeks : Paris, Milan, London, New Y
   - New York : Ralph Lauren, Tommy Hilfiger, Calvin Klein
     Tommy and Calvin belongs to the group PVH
 
-Brand like Chanel and Vivienne Westwood are excluded from this project because as private companies they do not have stocl market tickers.
+Brand like Chanel and Vivienne Westwood are excluded from this project because as private companies they do not have stock market tickers.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 | Brand           | Fashion Week | yfinance Ticker | Market         |                              
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 | Dior            | Paris        | LVMH.PA         | Euronext Paris |
