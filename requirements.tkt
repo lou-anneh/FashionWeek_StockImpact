@@ -1,0 +1,4 @@
+All the librairies you'll need : 
+- pandas,  numpy, matplotlib - seaborn - pytrends- yfinance - scipy - jupyter
+
+pip install yfinance pandas
